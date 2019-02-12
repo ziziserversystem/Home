@@ -5,7 +5,7 @@
 #
 
 # Prefix
-prefix: '§a[§eHomeSystem§a]§e'
+prefix: '§a【運営】 '
 
 # Limit of homes per player (-1 = no limit)
 limit: -1
