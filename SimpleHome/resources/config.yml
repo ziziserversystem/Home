@@ -19,5 +19,5 @@ delhome-usage: 'Usage: §7/delhome <home>'
 home-message: '§ehome %1 にテレポートしました'
 home-notexists: '§eHome %1 は設定されていません'
 home-list: '§bHomes (%1): §7%2'
-no-home: '§e>>homeが設定されていません'
+no-home: '§ehomeが設定されていません'
 ...
