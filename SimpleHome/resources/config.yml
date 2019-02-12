@@ -11,13 +11,13 @@ prefix: '§a【運営】 '
 limit: -1
 
 # Messages:
-sethome-message: '§e>>Home %1 を設定しました'
+sethome-message: '§eHome %1 を設定しました'
 sethome-usage: 'Usage: /sethome <home>'
-sethome-max: '§e>>Home %1 を設定しました'
-delhome-message: '§e>>Home %1 を削除しました'
+sethome-max: '§eHome %1 を設定しました'
+delhome-message: '§eHome %1 を削除しました'
 delhome-usage: 'Usage: §7/delhome <home>'
-home-message: '§e>>home %1 にテレポートしました'
-home-notexists: '§e>>Home %1 は設定されていません'
+home-message: '§ehome %1 にテレポートしました'
+home-notexists: '§eHome %1 は設定されていません'
 home-list: '§bHomes (%1): §7%2'
 no-home: '§e>>homeが設定されていません'
 ...
