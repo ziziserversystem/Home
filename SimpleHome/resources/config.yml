@@ -5,19 +5,19 @@
 #
 
 # Prefix
-prefix: '§3[SimpleHome]§e'
+prefix: '§a[§eHomeSystem§a]§e'
 
 # Limit of homes per player (-1 = no limit)
 limit: -1
 
 # Messages:
-sethome-message: '§aHome %1 has been successfully set.'
-sethome-usage: '§cUsage: §7/sethome <home>'
-sethome-max: '§cHome %1 can be set. You have reached the maximum number of homes.'
-delhome-message: '§aHome %1 has been successfully deleted.'
-delhome-usage: '§cUsage: §7/delhome <home>'
-home-message: '§aYou are successfully teleported to home %1.'
-home-notexists: '§cHome %1 does not exists!'
+sethome-message: '§e>>Home %1 を設定しました'
+sethome-usage: 'Usage: /sethome <home>'
+sethome-max: '§e>>Home %1 を設定しました'
+delhome-message: '§e>>Home %1 を削除しました'
+delhome-usage: 'Usage: §7/delhome <home>'
+home-message: '§e>>home %1 にテレポートしました'
+home-notexists: '§e>>Home %1 は設定されていません'
 home-list: '§bHomes (%1): §7%2'
-no-home: '§cYou have not homes'
+no-home: '§e>>homeが設定されていません'
 ...
